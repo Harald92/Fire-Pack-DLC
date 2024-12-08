@@ -1,7 +1,7 @@
 {
     "Name": "Fire Log From Tinder",
     "RequiredGear": [{"Item": "GEAR_Tinder","Count": 40}],
-    "KeroseneLitersRequired": 0.05,
+    "LiquidRequired": 0.05,
     "GunpowderKGRequired": 0,
     "RequiredTool": "",
     "OptionalTools": [],
